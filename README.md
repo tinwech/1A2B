@@ -31,7 +31,7 @@ make
 
 Show the available commands:
 
-```shell
+```
 > help
 available commands:
 register <username> <email> <user password>
